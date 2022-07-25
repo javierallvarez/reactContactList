@@ -63,12 +63,6 @@ const ContactList = () => {
         setContactos(tempContacts)
     }
 
-    /** Tras declarar estas funciones, vamos al componente hijo task.jsx
-     * y declaramos las props como connect y remove.
-     * Después las añadimos más abajo, como jsx.
-    */
- 
-
 
    /**
     * It adds a contact to the contact list.
